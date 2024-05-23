@@ -1,4 +1,4 @@
-<p align="left">Merhaba! Ben Baran. Meraklı, öğrenmeye açık ve işbirliğine önem veren biriyim. Yazılım geliştirme tutkunuyum. Hayatta başkalarına yardım etmek ve topluma katkı sağlamak benim için önemlidir. Her günümü gelişmeye odaklanarak geçiririm.</p>
+Hello! I'm Baran. I'm curious, open to learning, and value collaboration. I'm passionate about software development. It's important to me to help others and contribute to society. I spend each day focusing on growth.
 
 ### Skills
 
