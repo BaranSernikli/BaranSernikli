@@ -1,4 +1,4 @@
-Hello! I'm Baran. I'm curious, open to learning, and value collaboration. I'm passionate about software development. It's important to me to help others and contribute to society. I spend each day focusing on growth.
+Hello! I’m Baran, and I’m currently pursuing my studies in the Computer Programming department. I am constantly working on improving my skills in software development and web technologies. I am continually advancing my abilities in technologies such as HTML, CSS, JavaScript, C#, and SQL by developing projects. I aim to apply the theoretical knowledge I have gained during my studies to real-world projects and build a strong career in software development. By combining my communication skills with my technical knowledge, I aim to continuously improve myself in the software industry.
 
 ### Skills
 
